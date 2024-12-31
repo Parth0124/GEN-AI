@@ -1,1 +1,4 @@
 /genaienv
+*.pkl
+*.env
+.env
