@@ -4,4 +4,4 @@ python-dotenv
 langchain_community
 bs4
 arxiv
-WikipediaLoader
+langchain-openai
