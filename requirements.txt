@@ -5,3 +5,5 @@ langchain_community
 bs4
 arxiv
 langchain-openai
+sentence_transformers
+langchain_huggingface
