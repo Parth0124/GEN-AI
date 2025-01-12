@@ -12,3 +12,5 @@ chromadb
 langchain_chroma
 langchain-openai
 streamlit
+langchain_groq
+python-dotenv
