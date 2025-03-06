@@ -14,3 +14,4 @@ langchain-openai
 streamlit
 langchain_groq
 python-dotenv
+huggingface_hub
